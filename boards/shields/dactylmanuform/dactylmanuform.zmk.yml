@@ -1,0 +1,12 @@
+file_format: "1"
+id: dactylmanuform
+name: DactylManuform
+type: shield
+url: https://github.com/nab-os/zmk-config
+requires: [nice_nano_v2]
+exposes: []
+features:
+  - keys
+siblings:
+  - dactylmanufor_left
+  - dactylmanuform_right
